@@ -4,6 +4,8 @@ String splash_image2 = 'assets/splash2.png';
 String screen_logo = 'assets/screen_logo.png';
 String screen_logo1 = 'assets/screen_logo.png';
 String screen = 'assets/screen_logo.png';
+///
+String screens = 'assets/screen_logo.png';
 
 ///Colors
 int splash_bg_color = 0XFFE5E5E5;
