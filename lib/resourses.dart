@@ -8,3 +8,4 @@ String screen_logo1 = 'assets/screen_logo.png';
 int splash_bg_color = 0XFFE5E5E5;
 int font_color = 0xFf243443;
 int button_color = 0xFF0B0B45;
+int button_color1 = 0xFF0B0B45;
